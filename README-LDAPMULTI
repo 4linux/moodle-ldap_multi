@@ -1,3 +1,7 @@
-LDAP-module README
+LDAP-MULTI-module README
+
+This plugin is a fork from original plugin auth ldap, this fork allow you to work with a multiple ldap servers
+you can to manger one or more ldap servers in a easy way, add, test or remove any server that you want using 
+the moodle administrative area.
 
 Please read comments from auth.php in this directory.
